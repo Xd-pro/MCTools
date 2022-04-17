@@ -1,0 +1,18 @@
+
+§f[§4MCTools§f] by Lemoniq
+
+§dNote: This is a toy and may have severe bugs, use at your own risk
+
+§eUsing "quotes" in command arguments will allow you to use spaces
+To check command usage, enter it in chat without any arguments
+
+§l§fCommands:
+§r;help§7 - show this text
+§r§dWorld Editing
+§r;1§7 - set position 1 to your current position
+§r;2§7 - set position 2 to your current position
+§r;fill§7 - fill blocks from position 1 to position 2
+§r;replace§7 - replace blocks from position 1 to position 2
+§dVanilla command manipulation
+§r;loop§7 - run a command many times
+§r;say§7 - put a message in chat without having your username before it
